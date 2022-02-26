@@ -8,7 +8,7 @@
 <samp>
 <p align="center">
   <a href="#">
-    <img src="https://glisteneducation.com/wp-content/uploads/2020/06/042a032ef07597e1e3e35c037d972142.png" alt="Logo" width="80" height="80">
+    <img src="https://sepa-cyber.com/wp-content/uploads/2021/01/ATM-3.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ATM Simulator</h3>
