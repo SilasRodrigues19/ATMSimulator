@@ -45,12 +45,12 @@
 
 The project is divided in:
 
-- \*\*[0] Digite sua senha / 123
-- \*\*[1] Consultar saldo - consult the available balance
-- \*\*[2] Efetuar saque - enter the value you want to draw, if the balance is equal to 0, it will not be possible to draw
-- \*\*[3] Fazer deposito - enter a value to deposit
-- \*\*[4] Limpar tela - clears the latest transactions made and the screen
-- \*\*[5] Finalizar - ends all operations and closes the program
+- **[0] Digite sua senha** / 123
+- **[1] Consultar saldo** - consult the available balance
+- **[2] Efetuar saque** - enter the value you want to draw, if the balance is equal to 0, it will not be possible to draw
+- **[3] Fazer deposito** - enter a value to deposit
+- **[4] Limpar tela** - clears the latest transactions made and the screen
+- **[5] Finalizar** - ends all operations and closes the program
 
 ### Built With
 
